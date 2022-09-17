@@ -7,3 +7,6 @@
 
 # Terminologies
  - Tensor: 
+
+### dataset for alexnet
+ - https://github.com/jaddoescad/ants_and_bees.git
